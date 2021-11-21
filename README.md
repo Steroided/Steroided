@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Steroided
-- 👀 I’m interested in getting good job
+- 👀 I’m interested in getting a good job
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : https://vk.com/id210166700
